@@ -1,0 +1,18 @@
+{
+  "name": "web3-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws/web3-http-provider": "^1.0.1",
+    "aws-sdk": "^2.1031.0",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.6.1",
+    "xhr2": "^0.2.1"
+  }
+}
